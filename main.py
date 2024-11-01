@@ -30,7 +30,7 @@ if __name__ == "__main__":
     
     
     print("Width : 150, Height : 10, Length : 15, Mass : 25")
-    print(sort(150, 10, 15, 25))  # Expected output: "REJECTED" (heavy and bulky)
+    print("output: ", sort(150, 10, 15, 25))  # Expected output: "REJECTED" (heavy and bulky)
 
     # get user input
     inp = str(input("Want to enter your own dimensions? (y/n): "))

@@ -17,7 +17,7 @@ output:  SPECIAL
 Width : 100, Height : 50, Length : 20, Mass : 25
 output:  SPECIAL
 Width : 150, Height : 10, Length : 15, Mass : 25
-REJECTED
+output: REJECTED
 ```
 
  - User Inputs:
